@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bizontr&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="bizontr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bizontr&show_icons=true&locale=en" alt="bizontr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bizontr&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="bizontr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bizontr&" alt="bizontr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bizontr&theme=dark" alt="bizontr" /></p>
